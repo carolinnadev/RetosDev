@@ -1,0 +1,7 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+* Configuración de la longitud de la contraseña.
+* Selección de tipos de caracteres (mayúsculas, minúsculas, números y símbolos).
+* Botón para generar la contraseña aleatoria.
+* Función para copiar la contraseña generada al portapapeles.

@@ -1,0 +1,12 @@
+Tecnologías: Python (http.server), HTML y CSS (sin JavaScript, sin frameworks).
+Funcionalidades:
+
+Creación y despliegue de votaciones o encuestas dinámicas desde el backend de Python.
+
+Formulario de votación en HTML puro con opciones seleccionables mediante botones de opción (radio buttons) o botones de envío (POST).
+
+Procesamiento de votos en tiempo real gestionado por el servidor Python, evitando votos duplicados o inválidos por sesión.
+
+Visualización de resultados con gráficos o barras de progreso generados directamente con HTML y CSS.
+
+Opción para reiniciar la votación o cerrar la elección desde un panel de administración básico.

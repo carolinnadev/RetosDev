@@ -1,0 +1,12 @@
+Tecnologías: Python (http.server), HTML y CSS (sin JavaScript, sin frameworks).
+Funcionalidades:
+
+Formulario de búsqueda en HTML puro para consultar títulos de películas, series o géneros mediante peticiones GET o POST.
+
+Consulta y procesamiento en el backend de Python para filtrar la base de datos o API de películas y enviar los resultados formateados al navegador.
+
+Tarjetas de presentación con afiche (poster), título, año de estreno, calificación y sinopsis breve.
+
+Panel de detalles para ver información extendida de una película seleccionada (reparto, director, duración y género).
+
+Gestión de estados desde el servidor (mensaje de "No se encontraron resultados" o sugerencias de búsqueda).

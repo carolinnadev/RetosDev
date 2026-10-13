@@ -1,0 +1,67 @@
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 18.9px;
+    padding-right: 23px;
+}
+
+button {
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    border: 2px solid brown;
+    color: brown;
+    background-color: white;
+}
+
+#banderas {
+    width: 97%;
+    height: 20vh;
+    border: 2px solid pink;
+    margin: 18.9px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Tarjeta individual que genera el JS (Bandera + Texto) */
+.tarjeta-bandera {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+}
+
+.tarjeta-bandera img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.tarjeta-bandera p {
+    margin: 6px 0 0 0;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+    line-height: 1.1;
+}
+
+#tarjetas {
+    width: 97%;
+    height: 65vh;
+    border: 2px solid brown;
+    margin: 18.9px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}

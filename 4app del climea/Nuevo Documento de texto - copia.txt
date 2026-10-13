@@ -1,0 +1,18 @@
+Tecnologías: Python (http.server), HTML y CSS (sin JavaScript, sin frameworks).
+Funcionalidades:
+
+Formulario de búsqueda para consultar el clima digitando el nombre de una ciudad o región.
+
+Procesamiento en el servidor Python para obtener y parsear los datos meteorológicos (temperatura, humedad, velocidad del viento y estado del cielo).
+
+Visualización de la información del clima actual con tarjetas contextuales e iconos dinámicos generados por HTML/CSS según el estado meteorológico.
+
+Sección con el pronóstico de los próximos días estructurada en filas o rejilla.
+
+Manejo de errores desde el backend (por ejemplo, cuando una ciudad no es encontrada) mostrando mensajes aclaratorios en la interfaz.
+
+
+=============================
+NOTA:
+reutilza el diseño que ya tenemos asa a py lo que tienes en js
+=========================================================

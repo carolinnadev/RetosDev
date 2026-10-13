@@ -1,0 +1,12 @@
+Tecnologías: Python (http.server), HTML y CSS (sin JavaScript, sin frameworks).
+Funcionalidades:
+
+Interfaz web estructurada con formularios HTML puros para interactuar mediante peticiones HTTP gestionadas por Python.
+
+Sistema de inicio de sesión o validación por PIN de usuario.
+
+Menú principal con opciones de: Consulta de saldo, retiro de efectivo, depósito y visualización de últimos movimientos.
+
+Lógica de negocio en el backend de Python para validar transacciones (fondos insuficientes, montos válidos) y actualizar el saldo.
+
+Pantallas de respuesta y confirmación dinámicas generadas desde el servidor tras cada operación.

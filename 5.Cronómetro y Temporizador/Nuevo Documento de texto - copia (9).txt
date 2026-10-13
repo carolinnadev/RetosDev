@@ -1,0 +1,10 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+Dos modos independientes: cronómetro (conteo progresivo) y temporizador (cuenta regresiva configurable).
+
+Visualización de formato de horas, minutos, segundos y milisegundos en pantalla.
+
+Botones de control dedicados para iniciar, pausar y reiniciar.
+
+Registro de tiempos de vuelta (laps) para el modo cronómetro y alerta al finalizar el tiempo en el temporizador.

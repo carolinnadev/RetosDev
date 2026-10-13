@@ -1,0 +1,14 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+Carga e incorporación dinámica de imágenes de banderas de diversos países.
+
+Muestra de una bandera aleatoria por ronda acompañada de múltiples opciones de respuesta.
+
+Sistema de validación inmediata que indica si la selección fue correcta o incorrecta.
+
+Contador de puntuación en tiempo real y contador de aciertos/errores.
+
+Temporizador por pregunta o por sesión de juego.
+
+Pantalla de resultados finales con el puntaje obtenido y opción para reiniciar la partida.

@@ -1,0 +1,12 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+Dos temporizadores independientes (para cada jugador).
+
+Configuración de tiempo inicial y tiempos de incremento.
+
+El tiempo de un jugador se detiene y el del otro comienza al presionar su reloj o un botón.
+
+El temporizador se detiene cuando un jugador se queda sin tiempo.
+
+Alertas para notificar el final del tiempo o la victoria de un jugador.

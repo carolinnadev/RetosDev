@@ -1,0 +1,7 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+* Operaciones básicas: suma, resta, multiplicación y división.
+* Operaciones científicas: raíz cuadrada ($\sqrt{x}$), logaritmo base 10 ($\log$), porcentaje ($\\%$), seno, coseno y tangente.
+* Pantalla: panel superior que muestre la operación en curso y el resultado actual.
+* Control de errores: mostrar un mensaje claro ante cálculos inválidos

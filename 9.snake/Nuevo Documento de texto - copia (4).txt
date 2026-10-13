@@ -1,0 +1,14 @@
+Tecnologías: HTML, CSS y JavaScript.
+Funcionalidades:
+
+Tablero de juego mediante  cuadrícula HTML/CSS.
+
+Control del movimiento de la serpiente utilizando las teclas de dirección.
+
+Generación aleatoria de comida dentro del tablero.
+
+Mecánica de crecimiento de la serpiente e incremento de puntuación al comer.
+
+Detección de colisiones contra los bordes del tablero o contra el propio cuerpo (Game Over).
+
+Marcador de puntuación actual y récord máximo alcanzado (High Score).
